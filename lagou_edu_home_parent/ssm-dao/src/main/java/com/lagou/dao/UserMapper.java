@@ -53,7 +53,7 @@ public interface UserMapper {
 
 
 
-
+    public void add();
 
 
 
